@@ -45,13 +45,13 @@ All the package can be installed using pip command
 
 
 # Folders organisation
-
-Project_foolder
+```
+Project_folder
 	|_raw_data
 	|_Results [Folder]
 	|_common_folder
 	|_pipeline.py
-
+```
 
 # Running the script
 
