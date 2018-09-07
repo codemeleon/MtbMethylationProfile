@@ -58,25 +58,24 @@ Resequencing from Analysis option was selected with H37Rv as reference genome. *
 
 
 # Folders organisation
-
 ```
 Project_folder
-  	|_raw_data
-  	|	|_sample1
-    |   |	|_5_BASE_MODIFICATIONS
-    |   |   |		|_modifications.gff.gz
-    |   |   |_Analysis
-    |   |   		|_consensus.fasta
-    |   |_sample2
-  	|   |	|_5_BASE_MODIFICATIONS
-    |   |   |		|_modifications.gff.gz
-    |   |   |_Analysis
-    |   |   		|_consensus.fasta
-    |   :
-    |	:
-  	|_Results [Folder]
-  	|_common_folder
-  	|_pipeline.py
+	|_raw_data
+	|		|_sample1
+  |   |		|_5_BASE_MODIFICATIONS
+  |   |   |		|_modifications.gff.gz
+  |   |   |_Analysis
+  |   |   		|_consensus.fasta
+  |   |_sample2
+	|   |		|_5_BASE_MODIFICATIONS
+  |   |   |		|_modifications.gff.gz
+  |   |   |_Analysis
+  |   |   		|_consensus.fasta
+  |   :
+  |		:
+	|_Results [Folder]
+	|_common_folder
+	|_pipeline.py
 ```
 
 # Running the script
