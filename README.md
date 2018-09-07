@@ -63,14 +63,14 @@ Project_folder
    |_raw_data
    |  |_sample1
    |  |	|_5_BASE_MODIFICATIONS
-   |  |   |		|_modifications.gff.gz
+   |  |   |	|_modifications.gff.gz
    |  |   |_Analysis
-   |  |   		|_consensus.fasta
+   |  |   	|_consensus.fasta
    |  |_sample2
    |  |	|_5_BASE_MODIFICATIONS
-   |  |   |		|_modifications.gff.gz
+   |  |   |	|_modifications.gff.gz
    |  |   |_Analysis
-   |  |   		|_consensus.fasta
+   |  |   	|_consensus.fasta
    |  :
    |
    |_Results [Folder]
