@@ -86,3 +86,11 @@ python pipline.py
 # System tested
 
 Ubuntu 16.04 64bit
+
+# Test sample
+
+- Clone the project
+- cd MtbMethylationProfile/dummy_project
+- python pipeline.py
+
+Results will be produced in **Results** folder
